@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 const About = () => {
@@ -28,7 +27,7 @@ const About = () => {
               <div>
                 <h4 className="font-semibold text-gray-900 mb-2">Education</h4>
                 <p className="text-gray-600">Bachelor of Information Technology</p>
-                <p className="text-sm text-gray-500">Hanoi University of Industry (2020-2024)</p>
+                <p className="text-sm text-gray-500">HANOI VOCATIONAL COLLEGE OF TECHNOLOGY (2020-2024)</p>
               </div>
               
               <div>

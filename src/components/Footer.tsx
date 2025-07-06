@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Heart } from 'lucide-react';
 
@@ -8,7 +7,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto px-6">
         <div className="text-center">
           <h3 className="text-2xl font-bold mb-4">Nguyễn Duy Nam</h3>
-          <p className="text-gray-400 mb-6">Full-Stack Developer & Solution Architect</p>
+          <p className="text-gray-400 mb-6">Full-Stack Developer</p>
           
           <div className="flex justify-center items-center gap-2 text-gray-400">
             <span>Made with</span>
@@ -18,7 +17,7 @@ const Footer = () => {
           
           <div className="mt-6 pt-6 border-t border-gray-800">
             <p className="text-gray-500 text-sm">
-              © 2024 Nguyễn Duy Nam. All rights reserved.
+              © {new Date().getFullYear()} Nguyễn Duy Nam. All rights reserved.
             </p>
           </div>
         </div>

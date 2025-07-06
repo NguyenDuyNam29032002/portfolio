@@ -11,7 +11,7 @@ const Hero = () => {
             Nguyễn Duy Nam
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-8">
-            Full-Stack Developer & Solution Architect
+            Full-Stack Developer
           </p>
           <div className="flex flex-wrap justify-center gap-6 text-sm text-gray-500 mb-8">
             <div className="flex items-center gap-2">
